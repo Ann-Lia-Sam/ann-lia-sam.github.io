@@ -27,11 +27,3 @@ molecular polaritons, and the quantum optics of many-body systems.
 <br>Indian Institute of Science, Bangalore · June – July 2025 · with Dr. Anoop Thomas
 
 </div>
-
-<div class="home-actions">
-
-{{< button href="/research/" >}}Research{{< /button >}}
-{{< button href="/cv/" >}}CV{{< /button >}}
-{{< button href="/contact/" >}}Get in touch{{< /button >}}
-
-</div>
