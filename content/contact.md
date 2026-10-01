@@ -12,11 +12,10 @@ sharingLinks: false
 I'm always happy to talk about quantum optics, cavity QED and light–matter interaction. I'm
 especially keen to hear about **research projects, summer internships and collaborations**.
 
-<!-- TODO: replace the placeholders below with your real details -->
-
-- **Email:** [YOUR_EMAIL@niser.ac.in](mailto:YOUR_EMAIL@niser.ac.in)
+- **Academic email:** [annlia.sam@niser.ac.in](mailto:annlia.sam@niser.ac.in)
+- **Personal email:** [annliasam171@gmail.com](mailto:annliasam171@gmail.com)
 - **GitHub:** [github.com/Ann-Lia-Sam](https://github.com/Ann-Lia-Sam)
-- **LinkedIn:** [linkedin.com/in/YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE)
+- **LinkedIn:** [linkedin.com/in/ann-lia-sam](https://www.linkedin.com/in/ann-lia-sam)
 
 **Address**
 <br>School of Physical Sciences
