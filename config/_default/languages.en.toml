@@ -1,0 +1,26 @@
+locale = "en"
+label = "English"
+direction = "ltr"
+weight = 1
+
+title = "Ann Lia Sam"
+copyright = "© 2026 Ann Lia Sam"
+
+[params]
+  dateFormat = "January 2006"
+
+  mainSections = ["research", "notes"]
+  description = "Ann Lia Sam: Integrated M.Sc. Physics student at NISER working on quantum optics and quantum electrodynamics."
+
+[params.author]
+  name = "Ann Lia Sam"
+  # Round profile photo (transparent corners) at assets/img/profile.png and it will appear automatically.
+  image = "img/profile.png"
+  headline = "Quantum Optics · Quantum Electrodynamics"
+  bio = "Integrated M.Sc. Physics student at NISER, interested in light–matter interaction and cavity QED."
+  # TODO: replace the email and LinkedIn placeholders with your real details.
+  links = [
+    { email = "mailto:YOUR_EMAIL@niser.ac.in" },
+    { github = "https://github.com/Ann-Lia-Sam" },
+    { linkedin = "https://linkedin.com/in/YOUR_HANDLE" },
+  ]
