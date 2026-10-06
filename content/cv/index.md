@@ -93,6 +93,5 @@ initial- and boundary-value problems, and least-squares fitting.
 
 ## Additional information
 
-- **Activities:** Active member, Coding Club, NISER Bhubaneswar
 - **Languages:** English and Malayalam (fluent); Hindi and Tamil (intermediate)
 - **Interests:** Reading, classical music (Carnatic), dance, playing the violin
