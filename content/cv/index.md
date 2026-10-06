@@ -11,66 +11,88 @@ sharingLinks: false
 
 {{< button href="/files/Ann_Lia_Sam_CV.pdf" target="_blank" >}}Download CV (PDF){{< /button >}}
 
-I am an Integrated M.Sc. Physics student at NISER Bhubaneswar. My research interests lie in
-**quantum information processing, quantum computation and light–matter interaction**,
-particularly **cavity QED**. I am currently working towards applying experimental insights from
-strong coupling to theoretical models of decoherence and quantum logic gates.
+Integrated M.Sc. (Physics), National Institute of Science Education and Research (NISER),
+Bhubaneswar, Odisha, India
 
 - **Email:** [annlia.sam@niser.ac.in](mailto:annlia.sam@niser.ac.in)
-- **Address:** National Institute of Science Education and Research, Jatni, Khurda, Odisha 752050, India
-
-## Education
-
-**Integrated M.Sc. (Physics)**
-<br>National Institute of Science Education and Research (NISER), Bhubaneswar
-<br>2024 – present
-
-**Higher Secondary (CBSE, Class XII)**
-<br>St. Antony's Public School, Kottayam, Kerala
-<br>2021 – 2023 · Physics, Chemistry, Mathematics, Biology
-
-**Secondary (Class X)**
-<br>Holy Trinity Vidyabhavan, Karthikappally, Kerala
-<br>2021
-
-## Research experience
-
-**Research Intern, Quantum Electrodynamics**, Indian Institute of Technology Madras
-<br>May – July 2026 · Supervisors: Dr. Krishna Nandipati & Dr. Athreya Shankar
-- Project: [Disorder in Cavity-Coupled Jahn–Teller Active Molecules](/research/cavity-jahn-teller-disorder/)
-<!-- TODO: add one or two bullet points on what you did and found — this internship is not yet in the PDF CV -->
-
-**Summer Research Intern, Prof. Anoop Thomas Lab**, Indian Institute of Science, Bangalore
-<br>June – July 2025 · Supervisor: Dr. Anoop Thomas
-- Investigated vibrational strong coupling (VSC) and its effect on photoinduced electron transfer
-- Fabricated Fabry–Pérot microcavities using spin-coating and measured their transmission spectra
-- Analysed biexponential fluorescence decay kinetics using time-resolved spectroscopy
-- Studied the hybridisation of molecular vibrations with cavity vacuum fields
-- Project: [Vibrational Spectroscopy](/research/vibrational-spectroscopy-iisc/)
-
-## Achievements
-
-- All India Rank **397** in the National Entrance Screening Test (NEST), 2024
-- All India Rank **3148** in the IISER Aptitude Test (IAT), 2024
-- Recipient of the **DAE–DISHA scholarship**
+- **Web:** [ann-lia-sam.github.io](https://ann-lia-sam.github.io/) · [LinkedIn](https://www.linkedin.com/in/ann-lia-sam)
 
 ## Research interests
 
-Quantum information processing · Quantum computation · Cavity QED · Light–matter interaction · Molecular polaritons · Vibrational strong coupling
+Quantum computation and quantum information; quantum optics and cavity QED; light–matter
+interaction and molecular polaritonics; open quantum systems; quantum many-body and condensed
+matter physics.
 
-## Projects & lab work
+## Education
 
-**Linear Optics Lab** (ongoing)
-<br>Gaussian beam propagation, beam waist measurement and interference patterns.
+**Integrated M.Sc. in Physics**
+<br>National Institute of Science Education and Research (NISER), Bhubaneswar
+<br>2024 – present
+
+**Senior Secondary (Class XII), CBSE** — Physics, Chemistry, Mathematics, Biology
+<br>St. Antony's Public School, Kottayam, Kerala
+<br>2021 – 2023 · **92%**
+
+**Secondary (Class X), CBSE**
+<br>Holy Trinity Vidyabhavan, Karthikappally, Kerala
+<br>2021 · **96%**
+
+## Research experience
+
+**Summer Research Intern**, Indian Institute of Technology (IIT) Madras
+<br>June – July 2026 · Supervisors: Prof. Krishna R. Nandipati and Prof. Athreya Shankar
+<br>*[Disorder in Cavity-Coupled Jahn–Teller Active Molecules](/research/cavity-jahn-teller-disorder/)*
+- Studied Jahn–Teller (E × e) active molecules strongly coupled to the two circularly
+  polarised modes of a Fabry–Pérot cavity, and reproduced the single-molecule cavity-JT polariton
+  spectrum and the two-molecule *collective vibronic cascade* of the literature
+- Extended the cavity-JT model to include *static energy disorder*, drawing each molecular
+  transition energy from a Gaussian ensemble in the spirit of the disordered
+  Holstein–Tavis–Cummings model, and interpreted the results through the random arrowhead-matrix
+  picture of bright/dark-state mixing
+
+**Summer Research Intern**, Indian Institute of Science (IISc), Bangalore
+<br>June – July 2025 · Supervisor: Prof. Anoop Thomas
+<br>*[Vibrational Strong Coupling and its Effect on Photoinduced Electron Transfer](/research/vibrational-spectroscopy-iisc/)*
+- Investigated vibrational strong coupling (VSC) and its influence on photoinduced electron
+  transfer rates in molecular systems
+- Fabricated Fabry–Pérot microcavities by spin-coating and characterised them through
+  transmission spectra
+- Analysed biexponential fluorescence decay kinetics using time-resolved spectroscopy
+- Studied the hybridisation of molecular vibrations with the cavity vacuum field and the
+  resulting vibro-polaritonic states
 
 ## Technical skills
 
-- **Experimental:** Precision optical alignment, spin-coating, FTIR spectroscopy, UV-Vis and fluorescence spectroscopy, Michelson and Fabry–Pérot interferometry
-- **Computational:** Python (NumPy, SciPy, Matplotlib)
-- **Instruments:** Spectrophotometers and laser-based laboratory setups
+- **Programming:** Python (NumPy, SciPy, Matplotlib, SymPy, QuTiP), LaTeX, Git, Linux
+- **Experimental:** Microcavity fabrication and spin-coating; FTIR, UV–Vis, fluorescence and
+  time-resolved spectroscopy; optical alignment and interferometry
+
+## Relevant coursework & laboratory work
+
+- **Completed:** Quantum Mechanics I, Classical Mechanics I, Electromagnetism I & II,
+  Mathematical Methods of Physics, Linear Optics (with laboratory), Electronics (with laboratory)
+- **In progress:** Quantum Mechanics II, Statistical Mechanics, Computational Physics,
+  General Physics Laboratory, Modern Physics Laboratory
+
+**Linear Optics Laboratory** — Gaussian beam propagation and beam-waist measurement, interference
+and diffraction patterns, and interferometric characterisation of optical cavities.
+
+**Modern Physics Laboratory** — foundational quantum and atomic physics experiments, with emphasis
+on measurement statistics and error analysis.
+
+**Computational Physics** — Gauss–Jordan elimination and LU decomposition for linear systems,
+Jacobi/Gauss–Seidel iterative solvers, root finding (Regula falsi, Newton–Raphson, Laguerre),
+numerical integration (Simpson, Monte Carlo), ODE solvers (Runge–Kutta, predictor–corrector) for
+initial- and boundary-value problems, and least-squares fitting.
+
+## Achievements & scholarships
+
+- All India Rank **397** in the National Entrance Screening Test (**NEST**) 2024
+- All India Rank **3148** in the IISER Aptitude Test (**IAT**) 2024
+- Recipient of the **DAE–DISHA scholarship** (Department of Atomic Energy, Government of India)
 
 ## Additional information
 
-- **Languages:** English, Malayalam, Tamil (intermediate), Hindi (intermediate)
-- **Activities:** Active member of the Coding Club
-- **Interests:** Reading, singing, dancing, playing the violin
+- **Activities:** Active member, Coding Club, NISER Bhubaneswar
+- **Languages:** English and Malayalam (fluent); Hindi and Tamil (intermediate)
+- **Interests:** Reading, classical music (Carnatic), dance, playing the violin
