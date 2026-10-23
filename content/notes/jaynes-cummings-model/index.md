@@ -27,8 +27,8 @@ two, \(a^\dagger\sigma_+\) and \(a\sigma_-\), oscillate at \(\omega_a + \omega_c
 \(g \ll \omega_a, \omega_c\) these fast terms average out, and dropping them gives
 
 $$
-H_{\mathrm{JC}} = \hbar\omega_c\, a^\dagger a + \frac{\hbar\omega_a}{2}\,\sigma_z
-  + \hbar g\left(a\,\sigma_+ + a^\dagger \sigma_-\right).
+H_{\mathrm{JC}} = \hbar\omega_c\, a^\dagger a + \frac{\hbar\omega_a}{2}\,\sigma_z +
+  \hbar g\left(a\,\sigma_+ + a^\dagger \sigma_-\right).
 $$
 
 ## Dressed states
